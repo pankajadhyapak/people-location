@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">People Location</string>
+    <string name="title_activity_login">Login</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">People Locations</string>
+    <string name="menu_item">Menu</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">CLose</string>
+    <string name="title_activity_phone_number">Enter Your Number</string>
+
+</resources>
